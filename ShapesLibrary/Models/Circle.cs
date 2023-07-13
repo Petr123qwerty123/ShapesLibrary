@@ -7,7 +7,7 @@ public class Circle : Shape
     public double Radius
     {
         get => _radius;
-        init
+        private init
         {
             if (value > 0)
             {
