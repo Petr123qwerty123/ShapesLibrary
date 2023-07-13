@@ -100,3 +100,4 @@
     SELECT products.title, categories.title 
     FROM products LEFT JOIN product_categories ON products.product_id = product_categories.product_id 
     LEFT JOIN categories ON product_categories.category_id = categories.category_id;
+    ![Вывод](https://telegra.ph/file/c959e38ac630f0625bc50.png)
