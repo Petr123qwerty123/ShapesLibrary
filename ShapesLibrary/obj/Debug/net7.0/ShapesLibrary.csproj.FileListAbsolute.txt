@@ -1,0 +1,12 @@
+C:\Users\kiryu\Desktop\ShapesLibrary\ShapesLibrary\ShapesLibrary\bin\Debug\net7.0\ShapesLibrary.deps.json
+C:\Users\kiryu\Desktop\ShapesLibrary\ShapesLibrary\ShapesLibrary\bin\Debug\net7.0\ShapesLibrary.dll
+C:\Users\kiryu\Desktop\ShapesLibrary\ShapesLibrary\ShapesLibrary\bin\Debug\net7.0\ShapesLibrary.pdb
+C:\Users\kiryu\Desktop\ShapesLibrary\ShapesLibrary\ShapesLibrary\obj\Debug\net7.0\ShapesLibrary.csproj.AssemblyReference.cache
+C:\Users\kiryu\Desktop\ShapesLibrary\ShapesLibrary\ShapesLibrary\obj\Debug\net7.0\ShapesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiryu\Desktop\ShapesLibrary\ShapesLibrary\ShapesLibrary\obj\Debug\net7.0\ShapesLibrary.AssemblyInfoInputs.cache
+C:\Users\kiryu\Desktop\ShapesLibrary\ShapesLibrary\ShapesLibrary\obj\Debug\net7.0\ShapesLibrary.AssemblyInfo.cs
+C:\Users\kiryu\Desktop\ShapesLibrary\ShapesLibrary\ShapesLibrary\obj\Debug\net7.0\ShapesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kiryu\Desktop\ShapesLibrary\ShapesLibrary\ShapesLibrary\obj\Debug\net7.0\ShapesLibrary.dll
+C:\Users\kiryu\Desktop\ShapesLibrary\ShapesLibrary\ShapesLibrary\obj\Debug\net7.0\refint\ShapesLibrary.dll
+C:\Users\kiryu\Desktop\ShapesLibrary\ShapesLibrary\ShapesLibrary\obj\Debug\net7.0\ShapesLibrary.pdb
+C:\Users\kiryu\Desktop\ShapesLibrary\ShapesLibrary\ShapesLibrary\obj\Debug\net7.0\ref\ShapesLibrary.dll

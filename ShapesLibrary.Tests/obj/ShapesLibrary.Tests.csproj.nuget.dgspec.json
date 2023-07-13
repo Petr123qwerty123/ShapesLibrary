@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kiryu\\Desktop\\ShapesLibrary\\ShapesLibrary\\ShapesLibrary.Tests\\ShapesLibrary.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kiryu\\Desktop\\ShapesLibrary\\ShapesLibrary\\ShapesLibrary.Tests\\ShapesLibrary.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kiryu\\Desktop\\ShapesLibrary\\ShapesLibrary\\ShapesLibrary.Tests\\ShapesLibrary.Tests.csproj",
+        "projectName": "ShapesLibrary.Tests",
+        "projectPath": "C:\\Users\\kiryu\\Desktop\\ShapesLibrary\\ShapesLibrary\\ShapesLibrary.Tests\\ShapesLibrary.Tests.csproj",
+        "packagesPath": "C:\\Users\\kiryu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kiryu\\Desktop\\ShapesLibrary\\ShapesLibrary\\ShapesLibrary.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kiryu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\kiryu\\Desktop\\ShapesLibrary\\ShapesLibrary\\ShapesLibrary\\ShapesLibrary.csproj": {
+                "projectPath": "C:\\Users\\kiryu\\Desktop\\ShapesLibrary\\ShapesLibrary\\ShapesLibrary\\ShapesLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\kiryu\\.dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kiryu\\Desktop\\ShapesLibrary\\ShapesLibrary\\ShapesLibrary\\ShapesLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kiryu\\Desktop\\ShapesLibrary\\ShapesLibrary\\ShapesLibrary\\ShapesLibrary.csproj",
+        "projectName": "ShapesLibrary",
+        "projectPath": "C:\\Users\\kiryu\\Desktop\\ShapesLibrary\\ShapesLibrary\\ShapesLibrary\\ShapesLibrary.csproj",
+        "packagesPath": "C:\\Users\\kiryu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kiryu\\Desktop\\ShapesLibrary\\ShapesLibrary\\ShapesLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kiryu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\kiryu\\.dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
