@@ -64,7 +64,7 @@
     CREATE TABLE product_categories (
     product_id int  NOT NULL,
     category_id int  NOT NULL,
-    CONSTRAINT product_categories_pk PRIMARY KEY  (product_id,category_id)
+    CONSTRAINT product_categories_pk PRIMARY KEY  (product_id, category_id)
     );
     
     CREATE TABLE products (
@@ -82,19 +82,19 @@
     REFERENCES products (product_id);
 
 ###  Заполнение таблиц:
-    INSERT INTO products(product_id,title) VALUES (1, 'Колбаса');
-    INSERT INTO products(product_id,title) VALUES (2, 'Макароны');
-    INSERT INTO products(product_id,title) VALUES (3, 'Печенье');
+    INSERT INTO products(product_id, title) VALUES (1, 'Колбаса');
+    INSERT INTO products(product_id, title) VALUES (2, 'Макароны');
+    INSERT INTO products(product_id, title) VALUES (3, 'Печенье');
     
-    INSERT INTO categories(category_id,title) VALUES (1, 'Колбасы');
-    INSERT INTO categories(category_id,title) VALUES (2, 'Мясо');
-    INSERT INTO categories(category_id,title) VALUES (3, 'Бакалея');
-    INSERT INTO categories(category_id,title) VALUES (4, 'Тесто');
+    INSERT INTO categories(category_id, title) VALUES (1, 'Колбасы');
+    INSERT INTO categories(category_id, title) VALUES (2, 'Мясо');
+    INSERT INTO categories(category_id, title) VALUES (3, 'Бакалея');
+    INSERT INTO categories(category_id, title) VALUES (4, 'Тесто');
     
-    INSERT INTO product_categories(product_id,category_id) VALUES (1, 1);
-    INSERT INTO product_categories(product_id,category_id) VALUES (1, 2);
-    INSERT INTO product_categories(product_id,category_id) VALUES (2, 3);
-    INSERT INTO product_categories(product_id,category_id) VALUES (2, 4);
+    INSERT INTO product_categories(product_id, category_id) VALUES (1, 1);
+    INSERT INTO product_categories(product_id, category_id) VALUES (1, 2);
+    INSERT INTO product_categories(product_id, category_id) VALUES (2, 3);
+    INSERT INTO product_categories(product_id, category_id) VALUES (2, 4);
 
 ### Решение задачи:
     SELECT products.title, categories.title 
